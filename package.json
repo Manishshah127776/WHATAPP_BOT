@@ -1,0 +1,32 @@
+{
+  "name": "lucifer-xtech-bot",
+  "version": "1.0.0",
+  "description": "Advanced WhatsApp Bot with 2000+ Features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.7.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0",
+    "ytdl-core": "^4.11.5",
+    "fluent-ffmpeg": "^2.1.2",
+    "file-type": "^18.5.0",
+    "mime-types": "^2.1.35",
+    "google-it": "^1.6.4",
+    "mathjs": "^11.11.1",
+    "weather-js": "^2.0.0",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
